@@ -7,7 +7,8 @@ Upon discovery of a Speco camera, you may be prompted to download an executable,
 
 On vulnerable models, you can look for the following path:
 
-[/cgi-bin/snapshot.cgi?channel=#] 
+		[ /cgi-bin/snapshot.cgi?channel=# ] 
+		
 where # is the channel of the camera you want to view. If only one camera, make this 1. Increment to find other cameras.
 
 Example: http://127.0.0.1/video.html > http://127.0.0.1/cgi-bin/snapshot.cgi?channel=1
