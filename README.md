@@ -17,3 +17,6 @@ I also found a list of possible strings to try against other Speco cameras here:
 https://www.ispyconnect.com/man.aspx?n=Speco
 
 The above was not in the list, but after some enumeration I landed on the "/cgi-bin/snapshot.cgi?channel=1" path which showed a live image from the camera.
+
+--
+The images can also be found in http://127.0.0.1/images/snapshot-01.jpg - http://127.0.0.1/images/snapshot-02.jpg and so on.
